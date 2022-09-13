@@ -1,5 +1,5 @@
 ### Hi there 👋 
-I am # Anwar Jahid
+I am Anwar Jahid currentylu working at IsDB-BISEW and 4POCH LLC. I am passionate and self motivated full-stack webdeveloper
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on IsDB-BISEW
