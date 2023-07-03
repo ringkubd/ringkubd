@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning React Native ...
 - 👯 I’m looking to collaborate on a friendly team ...
 - 💬 Ask me about ...
-- 📫 How to reach me: [@email]
+- 📫 How to reach me: [@email][@fiver][@website]
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ringkubd)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 [@isdb-bisew]: https://isdb-bisew.org
 [@4poch]: https://4poch.com
 [@email]: mailto:ajr.jahid@gmail.com
+[@website]: https://anwarjahid.com
+[@fiver]: https://fiver.com/ringkubd
