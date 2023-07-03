@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 ![GitHub Statistics (widget provided by GitHub README Stats)][ico-statistics]
 
-[ico-statistics]: https://readme-stats-alpha-sage.vercel.app/api?username=ringkubd&count_private=true&hide_title=true&show_icons=true&hide_border=true&disable_animations=true&theme=transparent
+[ico-statistics]: https://readme-stats-q22wxmhvd-ringkubd.vercel.app/api?username=ringkubd&count_private=true&hide_title=true&show_icons=true&hide_border=true&disable_animations=true&theme=transparent
 
 [@isdb-bisew]: https://isdb-bisew.org
 [@4poch]: https://4poch.com
