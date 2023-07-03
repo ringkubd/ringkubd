@@ -9,4 +9,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=ringkubd)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub Statistics (widget provided by GitHub README Stats)][ico-statistics]
+
 [ico-statistics]: https://github-readme-stats.vercel.app/api?username=ringkubd&count_private=true&hide_title=true&show_icons=true&hide_border=true&disable_animations=true&theme=transparent
