@@ -8,9 +8,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 -->
-
+[ico-statistics]: https://github-readme-stats.vercel.app/api?username=ringkubd&count_private=true&hide_title=true&show_icons=true&hide_border=true&disable_animations=true&theme=transparent
 [![trophy](https://github-profile-trophy.vercel.app/?username=ringkubd)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **ringkubd/ringkubd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Anwar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ringkubd&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[ico-statistics]: https://github-readme-stats.vercel.app/api?username=ringkubd&count_private=true&hide_title=true&show_icons=true&hide_border=true&disable_animations=true&theme=transparent
+
