@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on a friendly team ...
 - 💬 Ask me about ...
 - 📫 How to reach me: [@email]
--->
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=ringkubd)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub Statistics (widget provided by GitHub README Stats)][ico-statistics]
