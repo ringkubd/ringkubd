@@ -78,7 +78,6 @@ I'm a **Technical Leader & Full-Stack Developer** with 8+ years (since Jul 2017)
 </div>
 
 #### 🎖️ Professional Milestones
-- 🌐 **1000+ GitHub Stars** across public repositories
 - 👥 **Successfully Mentored** 15+ junior developers into senior roles
 - 🚀 **Shipped 30+ Projects** across fintech, e-commerce, and SaaS domains
 - 📈 **100K+ Users** across SaaS products built and maintained
