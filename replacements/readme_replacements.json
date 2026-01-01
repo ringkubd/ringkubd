@@ -1,0 +1,22 @@
+[
+    {
+        "old": "[![trophy](https://github-profile-trophy.vercel.app/?username=ringkubd&theme=onedark&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)",
+        "new": "[![trophy](https://github-profile-trophy.vercel.app/?username=ringkubd&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)"
+    },
+    {
+        "old": "![GitHub Stats](https://readme-stats-q22wxmhvd-ringkubd.vercel.app/api?username=ringkubd&count_private=true&show_icons=true&theme=radical&hide_border=true)",
+        "new": "![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ringkubd&show_icons=true&count_private=true&theme=radical&hide_border=true)"
+    },
+    {
+        "old": "![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ringkubd&layout=compact&theme=radical&hide_border=true)",
+        "new": "![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ringkubd&layout=compact&theme=radical&hide_border=true&langs_count=8)"
+    },
+    {
+        "old": "![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ringkubd&theme=radical&hide_border=true)",
+        "new": "![GitHub Streak](https://streak-stats.demolab.com?user=ringkubd&theme=radical&hide_border=true)"
+    },
+    {
+        "old": "- 🌱 Currently learning **React Native**",
+        "new": "- 🌟 **Expert in React Native, Laravel, JavaScript, and more**"
+    }
+]
