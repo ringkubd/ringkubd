@@ -17,7 +17,8 @@
 I am a passionate and self-motivated **Full-Stack Web Developer** with expertise in building scalable web applications. Currently contributing my skills at **IsDB-BISEW** as an IT Officer and working as a freelance developer at **4POCH LLC**. 
 
 - 🏢 **IT Officer** at [IsDB-BISEW](https://isdb-bisew.org)
-- 👨‍💼 **Team Leader for Web and Mobile Development** at [Gunma Halal Food](https://gunmahalalfood.com/)
+- 👨‍💼 **Team Leader** at [Gunma Halal Food](https://gunmahalalfood.com/)
+- 🚀 **Owner** of [tmpmailer.com](https://tmpmailer.com)
 - 💼 **Freelance Full-Stack Developer** at [4POCH](https://4poch.com)
 - 🌱 Currently learning **React Native**
 - 👥 Open to collaborating on innovative projects
