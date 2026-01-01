@@ -20,7 +20,7 @@ I'm a **Technical Leader & Full-Stack Developer** with 8+ years (since Jul 2017)
 
 **Currently:**
 
-- 🏢 **IT Officer** at [IsDB-BISEW](https://isdb-bisew.org) — Building digital infrastructure for Islamic finance
+- 🏢 **IT Officer** at [IsDB-BISEW](https://isdb-bisew.org) — Advancing education, HR development, and institutional strengthening through technology
 
 - 👨‍💼 **Technical Team Leader** at [Gunma Halal Food](https://gunmahalalfood.com/) — Lead frontend & backend teams and mobile app development; coordinate marketing & SEO
 
